@@ -1,0 +1,44 @@
+project_name: TecCompanies
+
+#################################################################
+# Folder structure
+
+project_folder: ./data/
+
+#################################################################
+# Repo specification
+
+organization_names:
+- "microsoft"  
+- "google"  
+- "facebook"  
+- "apache"  
+- "alibaba"  
+- "github"  
+- "airbnb"  
+- "facebookresearch"  
+- "facebookarchive"  
+- "Netflix"  
+- "apple"  
+- "aws"  
+- "Azure"  
+- "twitter"
+- "NVIDIA" 
+- "GoogleCloudPlatform" 
+- "awslabs" 
+- "mapbox" 
+- "uber" 
+- "spotify" 
+- "GoogleChrome" 
+- "adobe"
+- "NVlabs"
+- "IBM"
+- "dropbox"
+- "oracle"
+- "baidu"
+- "yahoo"
+
+#################################################################
+# Content 
+content:
+- Repository
